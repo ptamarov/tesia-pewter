@@ -1,1 +1,2 @@
-Tamari Lattice 
+Tamari Lattices
+Compact Manifold

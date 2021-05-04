@@ -1,2 +1,3 @@
-Tamari Lattice 
-Cambio 
+Tamari Lattices
+Compact Manifold
+
